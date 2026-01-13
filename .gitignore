@@ -39,3 +39,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.gradle
+app/
+gradle/
+android.keystore
+
+*.apk
+*.aab
+build.gradle
+*.idsig
+gradle*
+manifest-checksum.txt
+settings.gradle
+store_icon.png
+twa*
